@@ -5,7 +5,7 @@ body {
 }
 
 #background_img {
-  background-image: url("img\binarycode.jpg");
+  background-image: url("binarycode.jpg");
   background-color: #cccccc;
   background-position: center;
   background-repeat: no-repeat;
