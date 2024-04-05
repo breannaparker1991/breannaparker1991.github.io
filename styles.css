@@ -24,19 +24,12 @@ body {
   align-items: center;
 }
 
-/* style {
-  a:link {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-  }
-}
-*/
+
 a, a:visited, a:hover, a:link {
-  background-color: #04AA6D; /* Green */
+  background-color: #04AA6D;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 5px 5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
