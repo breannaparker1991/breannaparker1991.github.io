@@ -26,7 +26,7 @@ body {
 
 
 a, a:visited, a:hover, a:link {
-  /* background-color: #04AA6D; */
+  background-color: black;
   border: none;
   font-weight: bold;
   color: orange;
@@ -37,6 +37,7 @@ a, a:visited, a:hover, a:link {
 }
 
 p {
+  background-color: black;
   border: none;
   color: aquamarine;
   text-align: center;
