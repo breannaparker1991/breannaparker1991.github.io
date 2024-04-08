@@ -16,7 +16,7 @@ body {
   background-size: cover;
 }
 
-.h1 {
+h1 {
   /* background-color: #333333; */
   padding: 20px;
   color: #ffffff;
@@ -48,7 +48,7 @@ li {
   font-size: 16px;
 }
 
-.ul {
+ul {
   width: 260px;
   align-self: right;
   border-color: aliceblue;
