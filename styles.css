@@ -13,8 +13,8 @@ body {
 }
 
 .flex-container {
-  width: 1000px;
-  margin: 0 auto;
+  width: 1500px;
+  margin: 50 auto;
   display: flex;
   justify-content: space-between;
   background-color:transparent;
