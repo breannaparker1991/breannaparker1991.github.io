@@ -51,4 +51,5 @@ li {
 .ul {
   width: 260px;
   align-self: right;
+  border-color: aliceblue;
 }
