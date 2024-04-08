@@ -31,13 +31,15 @@ body {
 
 .left_column {
   height: 100%;
-  border-color: aliceblue;
+  border-color: rgb(241, 125, 8);
+  border-style: solid;
   justify-content: space-between;
 }
 
 .right_column{
   height: 100%;
-  border-color: aliceblue;
+  border-style: solid;
+  border-color: rgb(246, 15, 15);
 }
 
 /* .flex-container {
@@ -63,6 +65,7 @@ h1 {
   padding: 20px;
   color: #ffffff;
   font-size: 22px;
+  background-color: red;
   /* display: flex;
   align-items: center; */
 }
