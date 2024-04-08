@@ -2,7 +2,6 @@
   padding-top: 50px;
 }
 
-
 body {
   margin: 0;
   text-align: center;
@@ -12,13 +11,20 @@ body {
   align-items: center;
 }
 
-.flex-container {
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+/* .flex-container {
   width: 1500px;
   margin: 50 auto;
   display: flex;
   justify-content: space-between;
   background-color:transparent;
-}
+} */
 
 #background_img {
   background-image: url("robot4.jpg");
@@ -31,7 +37,7 @@ body {
   background-size: cover;
 }
 
-h1 {
+header {
   padding: 20px;
   color: #ffffff;
   font-size: 22px;
@@ -60,8 +66,8 @@ li {
   font-size: 16px;
 }
 
-ul {
-  width: 500px;
+/* ul {
+  width: 1500px;
   align-self: right;
   border-color: aliceblue;
-}
+} */
