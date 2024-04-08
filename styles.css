@@ -31,10 +31,12 @@ body {
 
 .left_column {
   height: 100%;
+  border-color: aliceblue;
 }
 
 .right_column{
   height: 100%;
+  border-color: aliceblue;
 }
 
 /* .flex-container {
@@ -56,7 +58,7 @@ body {
   background-size: cover;
 }
 
-header {
+h1 {
   padding: 20px;
   color: #ffffff;
   font-size: 22px;
@@ -85,8 +87,8 @@ li {
   font-size: 16px;
 }
 
-ul {
+/* ul {
   width: 680px;
   align-self: right;
   border-color: aliceblue;
-}
+} */
