@@ -18,6 +18,25 @@ body {
   flex: 1;
 }
 
+.some-page-wrapper {
+  margin: 15px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.left_column {
+  height: 100%;
+}
+
+.right_column{
+  height: 100%;
+}
+
 /* .flex-container {
   width: 1500px;
   margin: 50 auto;
