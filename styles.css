@@ -25,6 +25,7 @@ body {
 .row1 {
   text-align: center;
   width: 100%;
+  display: flex;
 }
 
 .row2 {
