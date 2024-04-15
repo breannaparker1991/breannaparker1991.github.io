@@ -64,7 +64,6 @@ body {
 h1 {
   padding: 20px;
   color: #ffffff;
-  font-size: 22px;
   background-color: red;
   /* display: flex;
   align-items: center; */
@@ -81,15 +80,15 @@ a, a:visited, a:hover, a:link {
   font-size: 24px;
   text-decoration: underline;
 }
-
+/* 
 li {
   border: none;
   color: aquamarine;
   text-align: left;
   text-decoration: none;
-  /* display: inline-block; */
+  display: inline-block;
   font-size: 16px;
-}
+} */
 
 /* ul {
   width: 680px;
