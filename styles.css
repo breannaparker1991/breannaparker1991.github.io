@@ -37,7 +37,14 @@ body {
 
 .top_column {
   flex: 2;
-  color: red;
+  padding: 20px;
+}
+
+h1 {
+  padding: 20px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
 }
 
 .left_column {
@@ -73,14 +80,6 @@ body {
   width: 100vw;
   background-size: cover;
 }
-
-/* h1 {
-  padding: 20px;
-  color: #ffffff;
-  background-color: red;
-  display: flex;
-  align-items: center;
-} */
 
 
 a, a:visited, a:hover, a:link {
