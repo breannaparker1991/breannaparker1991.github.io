@@ -38,6 +38,7 @@ body {
 .top_column {
   flex: 2;
   padding: 20px;
+  height: 150px;
 }
 
 h1 {
@@ -61,6 +62,7 @@ h1 {
   height: 100%;
   border-style: solid;
   border-color: rgb(246, 15, 15);
+  justify-content: flex-start;
   flex: 1;
 }
 
@@ -102,6 +104,10 @@ li {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+p{
+  color: aquamarine;
 }
 
 /* ul {
