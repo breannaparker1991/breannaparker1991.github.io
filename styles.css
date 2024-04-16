@@ -70,7 +70,7 @@ h2 {
   justify-content: center;
   flex: 1;
   a, a:visited, a:hover, a:link{
-    color: pink;
+    color: greenyellow;
   } 
 }
 
@@ -81,7 +81,7 @@ h2 {
   flex: 1;
   padding-right: 50px;
   a, a:visited, a:hover, a:link{
-    color: orange;
+    color: pink;
   } 
 }
 
