@@ -41,8 +41,8 @@ body {
   height: 300px;
 }
 
-h1, h3 {
-  padding: 20px;
+h1 {
+  padding: 50px;
   color: #ffffff;
   display: flex;
   justify-content: center;
@@ -50,11 +50,19 @@ h1, h3 {
   border-color: red;
 }
 
+h2 {
+  padding: 20px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+}
+
 .left_column {
   height: 100%;
   border-color: rgb(241, 125, 8);
   border-style: solid;
   justify-content: space-between;
+  flex-direction: row;
   flex: 1;
 }
 
@@ -103,15 +111,10 @@ li {
   text-align: left;
   text-decoration: none;
   display: inline-block;
+  align-items: left;
   font-size: 16px;
 }
 
 p{
   color: aquamarine;
 }
-
-/* ul {
-  width: 680px;
-  align-self: right;
-  border-color: aliceblue;
-} */
