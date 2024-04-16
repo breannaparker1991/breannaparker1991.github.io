@@ -4,11 +4,10 @@
 
 body {
   margin: 0;
-  text-align: center;
   box-sizing: border-box;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  /* justify-content: center;
+  align-items: center; */
 }
 
 /* .flex-container {
@@ -117,4 +116,5 @@ li {
 
 p{
   color: aquamarine;
+  text-size-adjust: 20px;
 }
