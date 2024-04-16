@@ -67,8 +67,10 @@ h2 {
   align-items: center;
   align-self: center;
   justify-content: center;
-  
   flex: 1;
+  a, a:visited, a:hover, a:link{
+    color: pink;
+  } 
 }
 
 .right_column{
@@ -77,6 +79,9 @@ h2 {
   justify-content: flex-start;
   flex: 1;
   padding-right: 30px;
+  a, a:visited, a:hover, a:link{
+    color: orange;
+  } 
 }
 
 #background_img {
@@ -94,7 +99,6 @@ h2 {
 a, a:visited, a:hover, a:link {
   border: none;
   font-weight: bold;
-  color: orange;
   text-align: center;
   font-style: italic;
   /* display: inline-block; */
