@@ -11,6 +11,14 @@ body {
   align-items: center;
 }
 
+/* .flex-container {
+  width: 1500px;
+  margin: 50 auto;
+  display: flex;
+  justify-content: space-between;
+  background-color:transparent;
+} */
+
 .column {
   display: flex;
   flex-direction: column;
@@ -18,9 +26,9 @@ body {
   flex: 1;
 }
 
-.some-page-wrapper {
+/* .some-page-wrapper {
   margin: 15px;
-}
+} */
 
 .row1 {
   text-align: center;
@@ -73,14 +81,6 @@ h2 {
   align-content: flex-start;
   flex: 1;
 }
-
-/* .flex-container {
-  width: 1500px;
-  margin: 50 auto;
-  display: flex;
-  justify-content: space-between;
-  background-color:transparent;
-} */
 
 #background_img {
   background-image: url("robot4.jpg");
