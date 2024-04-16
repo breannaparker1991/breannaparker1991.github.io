@@ -45,7 +45,6 @@ body {
 .top_column {
   flex: 2;
   padding: 20px;
-  height: 300px;
 }
 
 h1 {
@@ -78,6 +77,7 @@ h2 {
   border-style: solid;
   border-color: rgb(246, 15, 15);
   align-content: flex-start;
+  justify-content: flex-start;
   flex: 1;
 }
 
