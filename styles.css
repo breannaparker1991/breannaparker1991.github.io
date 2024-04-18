@@ -21,7 +21,7 @@ body {
 .column {
   display: flex;
   flex-direction: column;
-  flex: 1;
+  width: 100%;
 }
 
 /* .some-page-wrapper {
@@ -44,6 +44,7 @@ body {
 .top_column {
   flex: 2;
   padding: 20px;
+  width: 100%;
 }
 
 h1 {
